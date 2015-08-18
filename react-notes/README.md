@@ -9,13 +9,12 @@ It uses
 4)Lowdb to store the data
 5)Express to provide web server
 
-###Installation
+Steps to run
 
-make build
-
-###Run
-
-make start
+1) git clone https://github.com/p-chavan/sampleapp.git
+2) cd sampleapp/react-notes/
+3)make build
+4)make start
 
 Access at http://localhost:3000.
 
