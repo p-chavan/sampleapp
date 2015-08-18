@@ -1,0 +1,23 @@
+{
+  "name": "react-notes",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "jquery": "~2.1.1",
+    "underscore": "~1.8.3",
+    "underscore-db"   : "^0.9.0",
+    "backbone": "~1.1.2",
+    "fontawesome": "~4.2.0",
+    "flux": "~2.0.2",
+    "bootstrap": "~3.3.1",
+    "eventEmitter": "~4.2.10",
+    "react-router": "0.13.3"    
+  
+  },
+  "devDependencies": {}
+}
